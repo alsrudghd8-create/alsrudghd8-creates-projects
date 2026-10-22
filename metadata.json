@@ -1,0 +1,6 @@
+{
+  "name": "백제 역사 탐구 워크북",
+  "description": "의자왕, 대야성 전투, 나당 동맹, 백제 멸망을 직접 서술하고 정답과 대조해보는 자기주도 한국사 역사 탐구 학습관",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
